@@ -1,4 +1,4 @@
-# Getting Started with TURO Travel services related App [ click here to see live demo](https://khadok-7c0f8.web.app/)
+# Getting Started with Travel services related App [ click here to see live demo](https://khadok-7c0f8.web.app/)
 
 ### This project was created with  using TailwindCss, React, React-Hook-form, firebase, react router, node, express, mongodb etc.
 
