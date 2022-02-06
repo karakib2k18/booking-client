@@ -1,4 +1,4 @@
-# Getting Started with TURO Travel services related App [ click here to see live demo](https://turo-a24f7.web.app/)
+# Getting Started with TURO Travel services related App [ click here to see live demo](https://khadok-7c0f8.web.app/)
 
 ### This project was created with  using TailwindCss, React, React-Hook-form, firebase, react router, node, express, mongodb etc.
 
@@ -11,3 +11,4 @@
 #### Treveller's can book an travel place easily from anywhate and anytime. 
 #### So I think this is the best website for Treveller's, agency also.# khadok
 # khadok
+# khadok-server
