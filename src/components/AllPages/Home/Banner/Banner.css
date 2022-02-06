@@ -1,0 +1,12 @@
+.header-banner {
+    background-image: url(https://cdn.getyourguide.com/supplier-portal/assets/images/f3904011.webp);
+    /* background-image: url(../../../../banner.jpg); */
+    background-color: #cccccc;
+    height: 75vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .banner-opacity-add{
+    background-color: rgba(0, 0, 0, 0.3);
+  }
